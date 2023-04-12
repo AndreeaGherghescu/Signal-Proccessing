@@ -1,0 +1,28 @@
+# Ura
+
+DO 4
+RE 4
+DO 4
+P 4
+MI 2
+FA 2
+SOL 2
+P 4
+DOM 1
+SI 1
+LA 1
+P 4
+
+
+# ura
+
+
+
+
+
+DO 4
+RE 4
+DO 4
+P 4
+
+DO 4
