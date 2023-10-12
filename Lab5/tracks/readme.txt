@@ -1,0 +1,4 @@
+ - BPM-ul proiectului este 170
+ - pt. sarcina 1 importam track-urile Drums si Keyboard
+ - pt. sarcina 2 adaugam in proiect track-ul Guitar care incepe la secunda 23
+ - pt. sarcina 3 adaugam track-ul Bass care incepe la secunda 23 si il normalizam (+15dB!)
